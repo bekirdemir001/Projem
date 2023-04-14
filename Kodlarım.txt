@@ -7,6 +7,6 @@ v3 techpro kodları...
 
 stash kodu...
 
-v5 github kodları
+v5 başka kodlar
 
 github da yazılan kodlar
